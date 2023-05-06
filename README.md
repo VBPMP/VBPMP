@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VASANT
 - 👀 I’m A ML Enthusiast
-- 🌱 I’m currently learning ML 
+- 🌱 I’m currently learning ML
 
 
 
