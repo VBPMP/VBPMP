@@ -14,12 +14,6 @@
 
 - 📫 How to reach me **vasantphirke21@gmail.com**
 
-
-<h3 align="left">Badges:</h3>
-[![An image of @vbpmp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vbpmp)](https://holopin.io/@vbpmp)
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vasant phirke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasant phirke" height="30" width="40" /></a>
