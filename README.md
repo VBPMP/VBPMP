@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbpmp&label=Profile%20views&color=0e75b6&style=flat" alt="vbpmp" /> </p>
 
-- 🔭 I’m currently working on **Machine Learing project**
+
 
 - 🌱 I’m currently learning **ML Algo,Full stack Development**
 
