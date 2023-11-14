@@ -36,3 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vbpmp&" alt="vbpmp" /></p>
 
+[![An image of @VBPMP's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@vbpmp#)](https://www.holopin.io/@vbpmp#)
+
