@@ -4,16 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbpmp&label=Profile%20views&color=0e75b6&style=flat" alt="vbpmp" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning project**
-
-- 🌱 I’m currently learning **ML Algo,Full stack Development**
-
-- 👯 I’m looking to collaborate on Smart Engineering**
-
-- 👨‍💻 All of my projects are available at [https://vasantphirke21.netlify.com/](https://vasantphirke21.netlify.com/)
-
-- 📫 How to reach me **vasantphirke21@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
